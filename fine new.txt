@@ -1,1 +1,3 @@
 ﻿this is file new
+hello every one
+hi
